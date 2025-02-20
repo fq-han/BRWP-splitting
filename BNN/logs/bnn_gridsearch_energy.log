@@ -1,0 +1,16 @@
+bnn - INFO - experiment energy(0), stepsize 0.01, T 0.0001, beta 1.0
+bnn - INFO - experiment energy(0), stepsize 0.01, T 0.0001, beta 1.0
+bnn - INFO - logl (Splitting) -2.4651312828063965, RMSE (Splitting) 2.8571782246171766, var (Splitting) 8.689369201660156
+bnn - INFO - logl (BRWP) -3.744947910308838, RMSE (BRWP) 10.237708933355234, var (BRWP) 101.90884399414062
+bnn - INFO - logl (ULA) nan, RMSE (ULA) nan, var (ULA) nan
+bnn - INFO - logl (SVGD) -3.0553181171417236, RMSE (SVGD) 5.114440646644729, var (SVGD) 28.056676864624023
+bnn - INFO - experiment energy(0), stepsize 0.01, T 0.0001, beta 1.0
+bnn - INFO - logl (Splitting) -2.8629157543182373, RMSE (Splitting) 4.280123151629546, var (Splitting) 18.033349990844727
+bnn - INFO - logl (BRWP) -3.713545083999634, RMSE (BRWP) 9.918097213868696, var (BRWP) 101.26618194580078
+bnn - INFO - logl (ULA) -3.7992117404937744, RMSE (ULA) 9.827110347315752, var (ULA) 143.74542236328125
+bnn - INFO - logl (SVGD) -3.4310061931610107, RMSE (SVGD) 7.488178091278878, var (SVGD) 57.30448913574219
+bnn - INFO - experiment energy(0), stepsize 0.01, T 0.0001, beta 1.0
+bnn - INFO - logl (Splitting) -2.4772286415100098, RMSE (Splitting) 2.8974216048370933, var (Splitting) 7.197536468505859
+bnn - INFO - logl (BRWP) nan, RMSE (BRWP) nan, var (BRWP) nan
+bnn - INFO - logl (ULA) nan, RMSE (ULA) nan, var (ULA) nan
+bnn - INFO - logl (SVGD) -2.5526187419891357, RMSE (SVGD) 3.137248031407668, var (SVGD) 9.177711486816406
